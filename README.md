@@ -8,3 +8,4 @@
   i.e. `https://gitpod.io/#https://github.com/[YOUR_GITHUB_ACCOUNT_NAME]/scss-card-tutorial`
 - Click `extensions`, search and install `prettier` and `live server`
 - Open command pallet `cmd + shift + p` and type `formatter`, change formatter to prettier, click checkbox `format on save`
+- Hello Karolis
